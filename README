@@ -1,0 +1,19 @@
+This is a MediaWiki extension used on http://www.politicswiki.ie/Special:ConstituencyFinder
+that allows someone to find the relevant constituency using an address
+
+
+I used the following when creating this:
+
+> jQuery
+> Google Maps Api
+> Point in Polygon Checking With Google Maps
+> The Tally Room - Maps - I changed their version to KML and the names of the polygons to map to urls in the wiki which are released under the same license the originals are jQuery UI
+
+Constituency Finder by PoliticsWiki.ie is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+Which covers the following files
+ConstituencyFinder.js
+ConstituencyFinder.alias.php
+ConstituencyFinder.html
+ConstituencyFinder.i18n.php
+ConstituencyFinder.php
+ConstituencyFinder_body.php
